@@ -15,8 +15,8 @@ The resulting hybrid model aids planetary scientists and mission planners in **r
 </br>
 
 <p align="center">
-<img src="assets/isi_kolkata_campus.jpg" width = 80%>
-<p align="center">Institute of Data Engineering, Analytics & Science Foundation (IDEAS), ISI Kolkata</p>
+<img src="accessories/ISI.png" width = 80%>
+<p align="center">Indian Statistical Institute, Kolkata</p>
 </p>
 
 ## Project Overview
@@ -76,7 +76,7 @@ This work demonstrates that **hybrid AI + statistical modeling** can serve as a 
 ## Internship Certificate:
 
 <p align="center">
-<img src="Internship_Certification/Internship_Certification.png" width="650">
+<img src="accessories/SANDIPAN_RAKSHIT.jpg" width="650">
 </p>
 
 ## Quick Links:
@@ -118,3 +118,5 @@ pip install -r requirements.txt
 
 # Run the interactive UI
 streamlit run app.py
+```
+**[Project Link...](https://github.com/CosmoCompute/planet-material-predictor)**
