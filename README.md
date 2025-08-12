@@ -83,7 +83,7 @@ This work demonstrates that **hybrid AI + statistical modeling** can serve as a 
 
 
 [![report](https://img.shields.io/badge/Final-Report-brightgreen)](Project_Report/Planet_Material_Predictor_report.pdf) 
-[!Certificate](https://img.shields.io/badge/Submission-blue)](Internship_certificate/SANDIPAN_RAKSHIT.pdf)
+[![certificate](https://img.shields.io/badge/certificate-blue)](Internship_certificate/SANDIPAN_RAKSHIT.pdf) 
 [![team work](https://img.shields.io/badge/Team-Work-red)](https://github.com/CosmoCompute/planet-material-predictor)
 [![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](Project_Report/Planet_Material_Predictor_report.pdf) 
 
