@@ -1,4 +1,4 @@
-<h1 align="center">PlanetSense: Planet Material Predictor</h1>
+<h1 align="center">PlanetSense: Intelligent Planetary Insight Engine</h1>
 
 <p align="center">
 <img src="accessories/ideas.png" width="600px">
