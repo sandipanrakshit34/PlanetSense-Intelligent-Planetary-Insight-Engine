@@ -1,4 +1,4 @@
-<h1 align="center">Planet Material Predictor</h1>
+<h1 align="center">PlanetSense: Planet Material Predictor</h1>
 
 <p align="center">
 <img src="accessories/ideas.png" width="600px">
@@ -96,11 +96,11 @@ This work demonstrates that **hybrid AI + statistical modeling** can serve as a 
 
 ## Authors
 
+- Sandipan Rakshit – MCKV Institute of Engineering  
 - Arijit Chowdhury – University of Calcutta  
 - Swarnabha Halder – Sikkim Manipal Institute of Technology  
 - Arnab Deogharia – Banaras Hindu University  
 - Arya Singh – IIT Patna  
-- Sandipan Rakshit – MCKV Institute of Engineering  
 - Manisha Kumari – IIT Patna  
 
 ## Getting Started
